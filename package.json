@@ -1,6 +1,8 @@
 {
-  "name": "hexlet",
-  "version": "1.0.0",
+  "name": "my-app",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {...},
   "description": "Мой первый проект на Хекслете",
   "homepage": "https://github.com/Dmitriy1452/hexlet-js#readme",
   "bugs": {
